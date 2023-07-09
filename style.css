@@ -1,16 +1,41 @@
-html, body {
-    font-family: Arial, serif;
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
+html,
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1;
+  color: #4d2323;
+  background: #afeeee;
 }
-table {
-    border-collapse: collapse;
+.footer {
+  margin-bottom: 100px;
+  height: 100px;
+  color: #4682b4;
 }
-table.border td, table.border th {
-    padding: 5px;
-    border: 1px solid #c0c0c0;
+
+.shap1 {
+  width: 50%;
+  height: 100%;
+  padding: 10px;
+  float: left;
 }
-table.border th {
-    background: #e0e0e0;
+.shap2 {
+  width: 50%;
+  height: 100%;
+  padding: 10px;
+  margin-left: 50%;
+}
+nav {
+  float: right;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+  border: 1px solid #E0FFFF;
+  border-radius: 20px;
+  border-color: #E0FFFF;
 }
