@@ -2,18 +2,18 @@ html, body {
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     font-weight: 400;
-    line-height: 1.5;
+    line-height: 1;
     color: #4d2323;
+    background: #AFEEEE;
 }
+
 .shap1 {
-    width: 70%;
-    min-height: 150px;
-    background: #ccc;
+    width: 50%;
+    height: 150px;
     float: left;
 }
 .shap2{
-    width: 30%;
-    min-height: 150px;
-    background: #c00;
-    margin-left: 70%;
+    width: 50%;
+    height: 150px;
+    margin-left: 50%;
 }
