@@ -6,6 +6,11 @@ html, body {
     color: #4d2323;
     background: #AFEEEE;
 }
+.footer{
+    margin-bottom: -100px;
+    height: 100px;
+    color: #4682B4;
+}
 
 .shap1 {
     width: 50%;
