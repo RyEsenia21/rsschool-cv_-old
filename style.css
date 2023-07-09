@@ -10,10 +10,12 @@ html, body {
 .shap1 {
     width: 50%;
     height: 150px;
+    padding: 10px;
     float: left;
 }
 .shap2{
     width: 50%;
     height: 150px;
+    padding: 10px;
     margin-left: 50%;
 }
