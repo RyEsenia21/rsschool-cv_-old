@@ -37,3 +37,46 @@ html,
     top: 31px;
     left: 1392px;
 }
+.welcome {
+    font-family: 'Forum', cursive;
+    color: #FFFFFF;
+    font-size: 40px;
+    line-height: 50px;
+    width: 400;
+    text-align: center;
+    background-color: #0C0C0E;
+    width: 600px;
+
+    position: absolute;
+    top: 220px;
+
+}
+.to {
+    font-family: 'Forum', cursive;
+    color: #FFFFFF;
+    font-size: 40px;
+    line-height: 50px;
+    width: 400;
+    text-align: center;
+    background-color: #0C0C0E;
+    width: 600px;
+
+    position: absolute;
+    top: 270px;
+
+}
+.liba {
+    font-family: 'Forum', cursive;
+    color: #FFFFFF;
+    font-size: 40px;
+    line-height: 50px;
+    width: 400;
+    text-align: center;
+    background-color: #0C0C0E;
+    width: 600px;
+    padding-bottom: 35px;
+
+    position: absolute;
+    top: 320px;
+
+}
