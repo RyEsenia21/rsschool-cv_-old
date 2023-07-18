@@ -1,0 +1,39 @@
+html,
+.header {
+
+    border-width: 1440px;
+    Height: 90px;
+    background: #0C0C0E;
+}
+.h1 {
+    font-family: 'Forum', cursive;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #FFFFFF;
+    position: absolute;
+    top: 0px;
+    left: 30px;
+
+}
+.head_menu {
+    font-family: 'Inter', sans-serif;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: flex-end;
+    margin: 20, 88, 0, 0;
+    width: 400;
+    font-size: 20px;
+    line-height: 50px;
+    position: absolute;
+    top: 20px;
+    left: 768px;
+    gap: 30px;
+}
+.profile {
+    position: absolute;
+    top: 31px;
+    left: 1392px;
+}
