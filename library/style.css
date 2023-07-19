@@ -82,15 +82,23 @@ html,
     top: 320px;
 
 }
-.about {
+.section {
     border-width: 1440px;
-    height: 837px;
-
-    font-family: 'Forum', cursive;
-    font-size: 30px;
-
+    height: 190px;
+    display: flex;
+    justify-content: center;
+    background: #FFFFFF;
+}
+.text_about {
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
     text-align: center;
 
-    background: #FFFFFF;
-    color: #0C0C0E;
+    position: absolute;
+    top: 840px;
+}
+.images {
+    display: flex;
+    justify-content: space-around;
+    background: white;
 }
