@@ -1,7 +1,8 @@
 html,
 .header {
 
-    border-width: 1440px;
+    border: 1px solid black;
+    width: 1440px;;
     Height: 90px;
     background: #0C0C0E;
 }
@@ -109,5 +110,43 @@ html,
     display: flex;
     justify-content: center;
     background: #FFFFFF;
-    padding: 40px;
+    padding: 60px;
+}
+.favorites_box {
+    border: 1px solid white;
+    width: 1440px;
+    height: 1439px;
+    background: white;
+}
+.favorites {
+    font-family: 'Forum', cursive;
+    font-size: 40px;
+    text-align: center;
+    margin: 20px 0;
+}
+.line {
+    border: 1px solid black;
+    width: 50px;
+    position: absolute;
+    left: 690px;
+    margin: 20px;
+}
+.pick {
+    font-family: 'Inter', sans-serif bold;
+    font-size: 20px;
+    border: 1px solid white;
+    width: 234px;
+    height: 24px;
+    margin: 121px 20px;
+}
+.radio_botom {
+    font-family: 'Inter', sans-serif bold;
+    font-size: 20px;
+
+    display: flex;
+    justify-content: space-around;
+
+    border: 1px solid white;
+    width: 700px;
+    height: 24px;
 }
