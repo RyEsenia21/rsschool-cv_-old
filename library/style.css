@@ -271,3 +271,50 @@ html,
     position: relative;
     left: 670px;
 }
+.menu {
+    border: 1px solid black;
+    width: 1400;
+    height: 800;
+    display: flex;
+    justify-content: space-between;
+}
+.tea {
+    width: 438px;
+    height: 520px;
+}
+.cofee_block {
+    font-family: 'Forum', cursive;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: 2px;
+    color:#BB945F;
+    margin-left: 20px;
+}
+.div_menu {
+    display: flex;
+    justify-content: space-between;
+}
+.p_menu {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 20px;
+    margin-left: 20px;
+    width: 196px;
+    height: 40px;
+}
+.tire {
+    border: 0.5px solid #BB945F;
+    width: 100px;
+    height: 0px;
+    margin-top: 15px;
+}
+.dollar {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 20px;
+}
