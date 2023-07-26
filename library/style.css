@@ -257,6 +257,15 @@ html,
     width: 1420px;
     height: 1000px;
 }
+.cofee_rev {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 40px;
+    text-align: center;
+    margin-top: 40px;
+}
 .cofee_h {
     font-family: 'Forum', cursive;
     font-weight: 400;
@@ -272,9 +281,9 @@ html,
     left: 670px;
 }
 .menu {
-    border: 1px solid black;
+    border: 1px solid white;
     width: 1400;
-    height: 800;
+    height: 700px;
     display: flex;
     justify-content: space-between;
 }
@@ -293,7 +302,7 @@ html,
 }
 .div_menu {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .p_menu {
     font-family: 'Inter', sans-serif;
@@ -317,4 +326,39 @@ html,
     font-size: 20px;
     letter-spacing: 2px;
     line-height: 20px;
+}
+.our_contacts_box {
+    border: 1px solid white;
+    background-color: white;
+    width: 1420px;
+    height: 575px;
+
+}
+.our_h {
+    font-family: 'Forum', cursive;
+    font-weight: 400;
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 20px 0;
+}
+.contact_maps {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.p_cont {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 40px;
+    text-align: left;
+    /* margin-top: 40px; */
+}
+.map_box {
+    border: 1px solid black;
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
 }
