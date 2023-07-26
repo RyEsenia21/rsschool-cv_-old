@@ -251,3 +251,23 @@ html,
     top: 2314px;
     left: 355px;
 }
+.cofee {
+    border: 1px solid white;
+    background-color: white;
+    width: 1420px;
+    height: 1000px;
+}
+.cofee_h {
+    font-family: 'Forum', cursive;
+    font-weight: 400;
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 20px 0;
+}
+.line_coffee {
+    border: 0.5px solid black;
+    width: 50px;
+    position: relative;
+    left: 670px;
+}
