@@ -342,10 +342,15 @@ html,
     text-align: center;
     margin: 20px 0;
 }
-.contact_maps {
+.wrap {
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    margin: 40px 0;
+}
+.map_box {
+    display: inline-block;
+    border: 1px solid white;
+    width: 696px;
+    height: 414px;
 }
 .p_cont {
     font-family: 'Inter', sans-serif;
@@ -354,11 +359,14 @@ html,
     letter-spacing: 2px;
     line-height: 40px;
     text-align: left;
-    /* margin-top: 40px; */
+    margin: 20px 0px 0px 20px;
 }
-.map_box {
-    border: 1px solid black;
-    width: 50%;
-    display: flex;
-    justify-content: flex-start;
+.p_cont_skinny {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 40px;
+    text-align: left;
+    margin: 20px 0px 0px 20px;
 }
