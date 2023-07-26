@@ -370,3 +370,26 @@ html,
     text-align: left;
     margin: 20px 0px 0px 20px;
 }
+.digital_box {
+    border: 1px solid white;
+    background-color: white;
+    width: 1420px;
+    height: 614px;
+}
+.left_text {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: 2%;
+    line-height: 36.31px;
+    text-align: center;
+    position: relative;
+    left: 158px;
+    margin: 40px 0px;
+}
+.bord {
+    border: 3px solid #BB945F;
+    background-color: #FFFFFF;
+    width: 600px;
+    height: 386px;
+}
