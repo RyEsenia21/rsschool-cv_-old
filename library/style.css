@@ -393,6 +393,8 @@ html,
     width: 600px;
     height: 386px;
     margin: 20px;
+    position: relative;
+    top: -178px;
 }
 .bro_bord {
     border: 1px solid #BB945F;
@@ -446,4 +448,25 @@ input::placeholder {
     width: 242px;
     height: 44px;
     margin: 10px 179px;
+}
+.h2_right {
+    font-family: 'Forum', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 33.12px;
+    letter-spacing: 2%;
+    color: black;
+    position:relative;
+    left: 880px;
+}
+.p_digital {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: 2%;
+    line-height: 40px;
+    text-align: right;
+    position: relative;
+    margin: 0px 20px;
+    /* top: 189px; */
 }
