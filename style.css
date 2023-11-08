@@ -1,0 +1,43 @@
+html,
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1;
+  color: #4d2323;
+  background: #afeeee;
+}
+.footer {
+  margin-bottom: 100px;
+  height: 100px;
+  color: #4682b4;
+}
+
+.shap1 {
+  width: 50%;
+  height: 100%;
+  padding: 10px;
+  float: left;
+  margin-top: 10px;
+}
+.shap2 {
+  width: 50%;
+  height: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 50%;
+}
+nav {
+  float: right;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+  border: 1px solid #E0FFFF;
+  border-radius: 20px;
+  border-color: #E0FFFF;
+}
